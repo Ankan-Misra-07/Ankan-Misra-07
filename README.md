@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)
 <h1 align="center">Hi 👋, I'm Ankan Misra</h1>
 <h3 align="center">Data Scientist from India</h3>
 
