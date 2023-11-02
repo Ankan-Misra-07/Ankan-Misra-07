@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/-------------------/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/-------------/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ankan-misra/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/-------------/" height="40" width="40" /></a>
 
 
 
