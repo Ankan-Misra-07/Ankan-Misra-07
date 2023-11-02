@@ -28,10 +28,10 @@
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h2 align="center">📊 My Github Stats</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=---------------&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=-----------&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=----------&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=------------&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=---------------&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankan-Misra-07&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankan-Misra-07&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankan-Misra-07&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankan-Misra-07&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankan-Misra-07&theme=solarized_dark&utcOffset=8">
 	
 </p>
