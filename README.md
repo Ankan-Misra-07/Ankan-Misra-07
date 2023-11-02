@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankan-Misra-07
+- 👋 Hi, I’m Ankan Misra
 - 👀 I’m interested in ...Data Science Projects
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
