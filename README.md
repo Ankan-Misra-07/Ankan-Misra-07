@@ -1,6 +1,6 @@
 ![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)
 <h1 align="center">Hi 👋, I'm Ankan Misra</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center"> Pursuing Data Scientist from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankan-Misra-07&label=Profile%20views&color=0e75b6&style=flat" alt="anirban" /> </p>
